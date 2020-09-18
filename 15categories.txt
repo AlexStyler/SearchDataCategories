@@ -3,9 +3,7 @@ headphones
 airplane
 lollipop
 pants
-dumbbell
 umbrella
-mountain
 apple
 broom
 flower
